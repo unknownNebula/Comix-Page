@@ -1,0 +1,43 @@
+table{
+	width: 600px;
+	height: 900px;
+	margin: auto;
+	border-collapse: collapse;
+}
+.pic1{
+	background-image: url("img/pic1.PNG");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.pic2{
+	background-image: url(img/pic2.PNG);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.pic3{
+	background-image: url(img/pic3.PNG);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.header{
+	height: 900px;
+	background-image: url(img/header.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+body{
+	text-align: center;
+}
+hr{
+	width: 600px;
+	height: 10px;
+	background-color: black;
+	margin-bottom: 15px;
+}
+td{
+	border: 2px solid black;
+}
